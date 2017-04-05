@@ -11,7 +11,7 @@ import javax.validation.Valid;
  */
 
 @RestController
-public class greetingController {
+public class UserController {
     @Autowired
     private UserService userService;
 
